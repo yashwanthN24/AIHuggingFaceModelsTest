@@ -122,3 +122,8 @@ https://huggingface.co/models?library=transformers&sort=trending
 
 For NVIDIA CUDA TOOLKIT
 https://developer.nvidia.com/cuda-downloads
+
+
+
+Command for Enabling GPU below: 
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128

@@ -115,3 +115,10 @@ If using a CPU instead of a GPU, change `device=0` to `device=-1`.
 ---
 
 Now you’re ready to use **LangChain and Transformers** with GPU acceleration! 🚀
+
+IN THIS WEBSITE CAN SEARCH FOR ALL MODELS USING TRANSFORMERS AND SPECIFIC FUNCTIONALITY BASED ON TASK LIKE TEXT GENERATION , SUMMERIZATION ETC
+https://huggingface.co/models?library=transformers&sort=trending
+
+
+For NVIDIA CUDA TOOLKIT
+https://developer.nvidia.com/cuda-downloads
